@@ -1,9 +1,4 @@
-/*
- * Group_A1_Omkar_Vignesh_Sharan
- * Omkar Ahir: 10429867
- * Vignesh Sriram: 10430312
- * Sharan Jotwani: 10429842
-*/
+
 
 import java.util.*;
 import java.io.BufferedReader;
